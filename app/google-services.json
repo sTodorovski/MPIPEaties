@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243922566776",
+    "firebase_url": "https://eaties-e3fd3-default-rtdb.firebaseio.com",
+    "project_id": "eaties-e3fd3",
+    "storage_bucket": "eaties-e3fd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243922566776:android:a8448686436888dc0c778d",
+        "android_client_info": {
+          "package_name": "com.example.eaties"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243922566776-mf4u4df2u6q4rd04ufksco8vi8sbsfij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eaties",
+            "certificate_hash": "1ac7f5c0b1808d440222b3f2c14c3974f8153383"
+          }
+        },
+        {
+          "client_id": "243922566776-a8cr0ob4fsm12ra0eseh8f62ro0ptfig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKUf7YunEyjw-_15gghDxcgvSUWiPWCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243922566776-a8cr0ob4fsm12ra0eseh8f62ro0ptfig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

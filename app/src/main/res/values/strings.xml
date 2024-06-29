@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Eaties</string>
+    <string name="google_map_api_key">AIzaSyCO8acCquJZK0B2QtooMghshyB7L0SOzKs</string>
+    <string name="facebook_app_id">6029842183806500</string>
+    <string name="fb_login_protocol_scheme">6029842183806500</string>
+    <string name="facebook_client_token">51f36059e992e042dcefbab834850596</string>
+</resources>
